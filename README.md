@@ -1,7 +1,6 @@
 # Population Fitter (Python)
 
-A Python/PyQt5 rewrite of `PopulationGUI.exe` ("Population Fitter", Ginsburg &
-Raviv, 2011) -- a tool for displaying linear/nonlinear combinations of
+A Python/PyQt5 rewrite of `PopulationGUI.exe` ("Population Fitter") -- a tool for displaying linear/nonlinear combinations of
 scattering curves and fitting their coefficients ("populations") against
 experimental data.
 
