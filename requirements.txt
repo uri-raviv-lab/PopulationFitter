@@ -1,0 +1,5 @@
+PyQt5>=5.15
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+anthropic>=1.0  # optional: powers the AI Fit Advisor button; app works fine without it

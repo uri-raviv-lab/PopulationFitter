@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Build environment and PyInstaller output (the exe is >100 MB -- publish it as a GitHub Release asset instead)
+build_venv/
+build/
+dist/
+*.spec
+
+# Logs
+*.log
+
+# Saved sessions (contain user data)
+*.pfsession
